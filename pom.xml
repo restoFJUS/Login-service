@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.restoreserva</groupId>
-	<artifactId>login-servise</artifactId>
+	<artifactId>login-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>login-servise</name>
+	<name>login-service</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
